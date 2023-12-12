@@ -1,10 +1,12 @@
 # Work-Day-Schedule
+
+## Description
 A calendar application that enables users to save events for each hour of the day. This app runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
 
 ## JQuery
 
-I used HTML, CSS and JQuery to create a calendar app that:
+I used HTML, CSS, BootStrap, DayJS and JQuery to create a calendar app that:
 
 1) Displays the current day at the top of the calender when a user opens the planner.
 2) Presents timeblocks for standard business hours when the user scrolls down.
@@ -24,7 +26,7 @@ N/A
 
 ## Credits
 
-https://stackoverflow.com/ - Utilised resources from this platform and youtube
+https://stackoverflow.com/ - Utilised resources from this platform, DayJS and youtube
 
 
 ## Screenshot
